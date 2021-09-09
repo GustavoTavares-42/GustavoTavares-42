@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estou apredendo a programar...
+- 💻 Estou apredendo a programar...
 
  <div>
   <a href="https://github.com/vesgonauta-G">

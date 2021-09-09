@@ -3,5 +3,5 @@
 
 
 - 🌱 Estou apredendo a programar...
-- ⚡ Fun fact: ...
+
 

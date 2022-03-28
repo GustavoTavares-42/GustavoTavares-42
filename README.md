@@ -2,7 +2,7 @@
 
 
 
-- 💻 Estou apredendo a programar...
+- 💻 Estudo programação e análise...
 
  <div>
   <a href="https://github.com/GustavoTavares-42">

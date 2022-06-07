@@ -2,7 +2,7 @@
 
 
 
-- 💻 Estudo programação e análise...
+
 
  <div>
   <a href="https://github.com/GustavoTavares-42">

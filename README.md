@@ -1,4 +1,4 @@
-### Olá me chamo Gustavo 👋
+### 👋
 
 
 
